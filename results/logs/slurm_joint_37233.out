@@ -1,0 +1,61 @@
+log file: logs/joint_seed42_20260911_164326.log
+joint baseline: 56347 training images, no CL, no gossip
+epoch 0 step 100 loss 1.1525
+epoch 0 step 200 loss 1.1951
+epoch 0 step 300 loss 1.3615
+epoch 0 step 400 loss 1.2647
+epoch 0 step 500 loss 1.2695
+epoch 0 step 600 loss 1.1235
+epoch 0 step 700 loss 1.3581
+epoch 0 step 800 loss 1.4105
+epoch 0 step 900 loss 1.2077
+epoch 0 step 1000 loss 1.2648
+epoch 0 step 1100 loss 1.2328
+epoch 0 step 1200 loss 1.3208
+epoch 0 step 1300 loss 1.1481
+epoch 0 step 1400 loss 1.1671
+epoch 0 step 1500 loss 1.0339
+epoch 0 step 1600 loss 1.1151
+epoch 0 step 1700 loss 1.1644
+epoch 1 step 1800 loss 1.1223
+epoch 1 step 1900 loss 1.2373
+epoch 1 step 2000 loss 1.1453
+epoch 1 step 2100 loss 1.0913
+epoch 1 step 2200 loss 1.1290
+epoch 1 step 2300 loss 1.3514
+epoch 1 step 2400 loss 1.0914
+epoch 1 step 2500 loss 1.1954
+epoch 1 step 2600 loss 1.1680
+epoch 1 step 2700 loss 1.1467
+epoch 1 step 2800 loss 1.1270
+epoch 1 step 2900 loss 1.2551
+epoch 1 step 3000 loss 1.2112
+epoch 1 step 3100 loss 1.3134
+epoch 1 step 3200 loss 1.3024
+epoch 1 step 3300 loss 1.4413
+epoch 1 step 3400 loss 1.2493
+epoch 1 step 3500 loss 1.3076
+epoch 2 step 3600 loss 1.2470
+epoch 2 step 3700 loss 1.0878
+epoch 2 step 3800 loss 1.1742
+epoch 2 step 3900 loss 1.2063
+epoch 2 step 4000 loss 1.2113
+epoch 2 step 4100 loss 1.1590
+epoch 2 step 4200 loss 1.1641
+epoch 2 step 4300 loss 1.1811
+epoch 2 step 4400 loss 1.2719
+epoch 2 step 4500 loss 1.1858
+epoch 2 step 4600 loss 1.3219
+epoch 2 step 4700 loss 1.1704
+epoch 2 step 4800 loss 1.3213
+epoch 2 step 4900 loss 1.1249
+epoch 2 step 5000 loss 1.3995
+epoch 2 step 5100 loss 1.4108
+epoch 2 step 5200 loss 1.3009
+         clear  mAP@[.5:.95] 0.2281
+      overcast  mAP@[.5:.95] 0.2628
+         rainy  mAP@[.5:.95] 0.2320
+         snowy  mAP@[.5:.95] 0.2447
+ partly cloudy  mAP@[.5:.95] 0.2624
+mean pooled mAP 0.2460
+saved -> runs/joint_seed42.json

@@ -1,0 +1,706 @@
+12:31:01 - log file: logs/local_only_seed42_20260911_123101.log
+12:31:14 - started training | mode=local_only seed=42 clients=['clear', 'overcast', 'rainy', 'snowy', 'partly cloudy'] gossip_every=20 steps
+12:32:10 -   [clear] trained -> 20 local steps
+12:32:56 -   [overcast] trained -> 20 local steps
+12:33:42 -   [rainy] trained -> 20 local steps
+12:34:27 -   [snowy] trained -> 20 local steps
+12:35:13 -   [partly cloudy] trained -> 20 local steps
+12:35:13 - slice     1 | finished 0/5 | 4.0 min | local steps {'clear': 20, 'overcast': 20, 'rainy': 20, 'snowy': 20, 'partly cloudy': 20}
+12:35:59 -   [clear] trained -> 40 local steps
+12:36:45 -   [overcast] trained -> 40 local steps
+12:37:31 -   [rainy] trained -> 40 local steps
+12:38:16 -   [snowy] trained -> 40 local steps
+12:39:02 -   [partly cloudy] trained -> 40 local steps
+12:39:02 - slice     2 | finished 0/5 | 7.8 min | local steps {'clear': 40, 'overcast': 40, 'rainy': 40, 'snowy': 40, 'partly cloudy': 40}
+12:39:48 -   [clear] trained -> 60 local steps
+12:40:34 -   [overcast] trained -> 60 local steps
+12:41:20 -   [rainy] trained -> 60 local steps
+12:42:05 -   [snowy] trained -> 60 local steps
+12:42:51 -   [partly cloudy] trained -> 60 local steps
+12:42:51 - slice     3 | finished 0/5 | 11.6 min | local steps {'clear': 60, 'overcast': 60, 'rainy': 60, 'snowy': 60, 'partly cloudy': 60}
+12:43:37 -   [clear] trained -> 80 local steps
+12:44:23 -   [overcast] trained -> 80 local steps
+12:45:11 -   [rainy] trained -> 80 local steps
+12:45:57 -   [snowy] trained -> 80 local steps
+12:46:43 -   [partly cloudy] trained -> 80 local steps
+12:46:43 - slice     4 | finished 0/5 | 15.5 min | local steps {'clear': 80, 'overcast': 80, 'rainy': 80, 'snowy': 80, 'partly cloudy': 80}
+12:47:28 -   [clear] trained -> 100 local steps
+12:48:14 -   [overcast] trained -> 100 local steps
+12:49:00 -   [rainy] trained -> 100 local steps
+12:49:46 -   [snowy] trained -> 100 local steps
+12:50:32 -   [partly cloudy] trained -> 100 local steps
+12:50:32 - slice     5 | finished 0/5 | 19.3 min | local steps {'clear': 100, 'overcast': 100, 'rainy': 100, 'snowy': 100, 'partly cloudy': 100}
+12:51:18 -   [clear] trained -> 120 local steps
+12:52:04 -   [overcast] trained -> 120 local steps
+12:52:50 -   [rainy] trained -> 120 local steps
+12:53:35 -   [snowy] trained -> 120 local steps
+12:54:21 -   [partly cloudy] trained -> 120 local steps
+12:54:21 - slice     6 | finished 0/5 | 23.1 min | local steps {'clear': 120, 'overcast': 120, 'rainy': 120, 'snowy': 120, 'partly cloudy': 120}
+12:55:07 -   [clear] trained -> 140 local steps
+12:55:53 -   [overcast] trained -> 140 local steps
+12:56:39 -   [rainy] trained -> 140 local steps
+12:57:25 -   [snowy] trained -> 140 local steps
+12:58:11 -   [partly cloudy] trained -> 140 local steps
+12:58:11 - slice     7 | finished 0/5 | 27.0 min | local steps {'clear': 140, 'overcast': 140, 'rainy': 140, 'snowy': 140, 'partly cloudy': 140}
+12:58:57 -   [clear] trained -> 160 local steps
+12:59:43 -   [overcast] trained -> 160 local steps
+13:00:30 -   [rainy] trained -> 160 local steps
+13:01:16 -   [snowy] trained -> 160 local steps
+13:02:02 -   [partly cloudy] trained -> 160 local steps
+13:02:02 - slice     8 | finished 0/5 | 30.8 min | local steps {'clear': 160, 'overcast': 160, 'rainy': 160, 'snowy': 160, 'partly cloudy': 160}
+13:02:48 -   [clear] trained -> 180 local steps
+13:03:34 -   [overcast] trained -> 180 local steps
+13:04:20 -   [rainy] trained -> 180 local steps
+13:05:06 -   [snowy] trained -> 180 local steps
+13:05:52 -   [partly cloudy] trained -> 180 local steps
+13:05:52 - slice     9 | finished 0/5 | 34.6 min | local steps {'clear': 180, 'overcast': 180, 'rainy': 180, 'snowy': 180, 'partly cloudy': 180}
+13:06:37 -   [clear] trained -> 200 local steps
+13:07:23 -   [overcast] trained -> 200 local steps
+13:08:09 -   [rainy] trained -> 200 local steps
+13:08:55 -   [snowy] trained -> 200 local steps
+13:09:41 -   [partly cloudy] trained -> 200 local steps
+13:09:41 - slice    10 | finished 0/5 | 38.5 min | local steps {'clear': 200, 'overcast': 200, 'rainy': 200, 'snowy': 200, 'partly cloudy': 200}
+13:10:27 -   [clear] trained -> 220 local steps
+13:11:14 -   [overcast] trained -> 220 local steps
+13:11:57 -   [rainy] trained -> 219 local steps
+13:11:57 -   [rainy] task 0 finished, evaluating
+13:13:30 -   [snowy] trained -> 220 local steps
+13:14:16 -   [partly cloudy] trained -> 220 local steps
+13:14:16 - slice    11 | finished 0/5 | 43.0 min | local steps {'clear': 220, 'overcast': 220, 'rainy': 219, 'snowy': 220, 'partly cloudy': 220}
+13:15:02 -   [clear] trained -> 240 local steps
+13:15:48 -   [overcast] trained -> 240 local steps
+13:16:38 -   [rainy] trained -> 239 local steps
+13:17:24 -   [snowy] trained -> 240 local steps
+13:18:10 -   [partly cloudy] trained -> 240 local steps
+13:18:10 - slice    12 | finished 0/5 | 46.9 min | local steps {'clear': 240, 'overcast': 240, 'rainy': 239, 'snowy': 240, 'partly cloudy': 240}
+13:18:57 -   [clear] trained -> 260 local steps
+13:19:43 -   [overcast] trained -> 260 local steps
+13:20:33 -   [rainy] trained -> 259 local steps
+13:20:51 -   [snowy] trained -> 249 local steps
+13:20:51 -   [snowy] task 0 finished, evaluating
+13:22:31 -   [partly cloudy] trained -> 260 local steps
+13:22:31 - slice    13 | finished 0/5 | 51.3 min | local steps {'clear': 260, 'overcast': 260, 'rainy': 259, 'snowy': 249, 'partly cloudy': 260}
+13:23:17 -   [clear] trained -> 280 local steps
+13:24:03 -   [overcast] trained -> 280 local steps
+13:24:54 -   [rainy] trained -> 279 local steps
+13:25:46 -   [snowy] trained -> 269 local steps
+13:26:32 -   [partly cloudy] trained -> 280 local steps
+13:26:32 - slice    14 | finished 0/5 | 55.3 min | local steps {'clear': 280, 'overcast': 280, 'rainy': 279, 'snowy': 269, 'partly cloudy': 280}
+13:27:18 -   [clear] trained -> 300 local steps
+13:28:04 -   [overcast] trained -> 300 local steps
+13:28:54 -   [rainy] trained -> 299 local steps
+13:29:45 -   [snowy] trained -> 289 local steps
+13:30:31 -   [partly cloudy] trained -> 300 local steps
+13:30:31 - slice    15 | finished 0/5 | 59.3 min | local steps {'clear': 300, 'overcast': 300, 'rainy': 299, 'snowy': 289, 'partly cloudy': 300}
+13:31:17 -   [clear] trained -> 320 local steps
+13:32:03 -   [overcast] trained -> 320 local steps
+13:32:53 -   [rainy] trained -> 319 local steps
+13:33:42 -   [snowy] trained -> 309 local steps
+13:34:28 -   [partly cloudy] trained -> 320 local steps
+13:34:28 - slice    16 | finished 0/5 | 63.2 min | local steps {'clear': 320, 'overcast': 320, 'rainy': 319, 'snowy': 309, 'partly cloudy': 320}
+13:35:14 -   [clear] trained -> 340 local steps
+13:36:00 -   [overcast] trained -> 340 local steps
+13:36:50 -   [rainy] trained -> 339 local steps
+13:37:40 -   [snowy] trained -> 329 local steps
+13:38:26 -   [partly cloudy] trained -> 340 local steps
+13:38:26 - slice    17 | finished 0/5 | 67.2 min | local steps {'clear': 340, 'overcast': 340, 'rainy': 339, 'snowy': 329, 'partly cloudy': 340}
+13:39:13 -   [clear] trained -> 360 local steps
+13:39:59 -   [overcast] trained -> 360 local steps
+13:40:49 -   [rainy] trained -> 359 local steps
+13:41:39 -   [snowy] trained -> 349 local steps
+13:42:25 -   [partly cloudy] trained -> 360 local steps
+13:42:25 - slice    18 | finished 0/5 | 71.2 min | local steps {'clear': 360, 'overcast': 360, 'rainy': 359, 'snowy': 349, 'partly cloudy': 360}
+13:43:11 -   [clear] trained -> 380 local steps
+13:43:57 -   [overcast] trained -> 380 local steps
+13:44:46 -   [rainy] trained -> 379 local steps
+13:45:35 -   [snowy] trained -> 369 local steps
+13:45:55 -   [partly cloudy] trained -> 369 local steps
+13:45:55 -   [partly cloudy] task 0 finished, evaluating
+13:47:14 - slice    19 | finished 0/5 | 76.0 min | local steps {'clear': 380, 'overcast': 380, 'rainy': 379, 'snowy': 369, 'partly cloudy': 369}
+13:48:00 -   [clear] trained -> 400 local steps
+13:48:46 -   [overcast] trained -> 400 local steps
+13:49:35 -   [rainy] trained -> 399 local steps
+13:50:26 -   [snowy] trained -> 389 local steps
+13:50:49 -   [partly cloudy] trained -> 378 local steps
+13:50:49 -   [partly cloudy] task 1 finished, evaluating
+13:52:08 - slice    20 | finished 0/5 | 80.9 min | local steps {'clear': 400, 'overcast': 400, 'rainy': 399, 'snowy': 389, 'partly cloudy': 378}
+13:52:54 -   [clear] trained -> 420 local steps
+13:53:40 -   [overcast] trained -> 420 local steps
+13:54:30 -   [rainy] trained -> 419 local steps
+13:55:20 -   [snowy] trained -> 409 local steps
+13:56:09 -   [partly cloudy] trained -> 398 local steps
+13:56:09 - slice    21 | finished 0/5 | 84.9 min | local steps {'clear': 420, 'overcast': 420, 'rainy': 419, 'snowy': 409, 'partly cloudy': 398}
+13:56:55 -   [clear] trained -> 440 local steps
+13:57:42 -   [overcast] trained -> 440 local steps
+13:58:32 -   [rainy] trained -> 439 local steps
+13:59:22 -   [snowy] trained -> 429 local steps
+14:00:13 -   [partly cloudy] trained -> 418 local steps
+14:00:13 - slice    22 | finished 0/5 | 89.0 min | local steps {'clear': 440, 'overcast': 440, 'rainy': 439, 'snowy': 429, 'partly cloudy': 418}
+14:00:59 -   [clear] trained -> 460 local steps
+14:01:45 -   [overcast] trained -> 460 local steps
+14:02:34 -   [rainy] trained -> 459 local steps
+14:03:23 -   [snowy] trained -> 449 local steps
+14:04:13 -   [partly cloudy] trained -> 438 local steps
+14:04:13 - slice    23 | finished 0/5 | 93.0 min | local steps {'clear': 460, 'overcast': 460, 'rainy': 459, 'snowy': 449, 'partly cloudy': 438}
+14:04:59 -   [clear] trained -> 480 local steps
+14:05:45 -   [overcast] trained -> 480 local steps
+14:06:35 -   [rainy] trained -> 479 local steps
+14:07:24 -   [snowy] trained -> 469 local steps
+14:08:13 -   [partly cloudy] trained -> 458 local steps
+14:08:13 - slice    24 | finished 0/5 | 97.0 min | local steps {'clear': 480, 'overcast': 480, 'rainy': 479, 'snowy': 469, 'partly cloudy': 458}
+14:08:59 -   [clear] trained -> 500 local steps
+14:09:45 -   [overcast] trained -> 500 local steps
+14:10:34 -   [rainy] trained -> 499 local steps
+14:11:23 -   [snowy] trained -> 489 local steps
+14:12:12 -   [partly cloudy] trained -> 478 local steps
+14:12:12 - slice    25 | finished 0/5 | 101.0 min | local steps {'clear': 500, 'overcast': 500, 'rainy': 499, 'snowy': 489, 'partly cloudy': 478}
+14:12:58 -   [clear] trained -> 520 local steps
+14:13:44 -   [overcast] trained -> 520 local steps
+14:14:33 -   [rainy] trained -> 519 local steps
+14:15:22 -   [snowy] trained -> 509 local steps
+14:15:27 -   [partly cloudy] trained -> 480 local steps
+14:15:27 -   [partly cloudy] task 2 finished, evaluating
+14:16:58 - slice    26 | finished 1/5 | 105.7 min | local steps {'clear': 520, 'overcast': 520, 'rainy': 519, 'snowy': 509, 'partly cloudy': 480}
+14:17:44 -   [clear] trained -> 540 local steps
+14:18:30 -   [overcast] trained -> 540 local steps
+14:19:20 -   [rainy] trained -> 539 local steps
+14:20:09 -   [snowy] trained -> 529 local steps
+14:20:09 - slice    27 | finished 1/5 | 108.9 min | local steps {'clear': 540, 'overcast': 540, 'rainy': 539, 'snowy': 529, 'partly cloudy': 480}
+14:20:55 -   [clear] trained -> 560 local steps
+14:21:42 -   [overcast] trained -> 560 local steps
+14:22:31 -   [rainy] trained -> 559 local steps
+14:23:21 -   [snowy] trained -> 549 local steps
+14:23:21 - slice    28 | finished 1/5 | 112.1 min | local steps {'clear': 560, 'overcast': 560, 'rainy': 559, 'snowy': 549, 'partly cloudy': 480}
+14:24:07 -   [clear] trained -> 580 local steps
+14:24:53 -   [overcast] trained -> 580 local steps
+14:25:42 -   [rainy] trained -> 579 local steps
+14:26:32 -   [snowy] trained -> 569 local steps
+14:26:32 - slice    29 | finished 1/5 | 115.3 min | local steps {'clear': 580, 'overcast': 580, 'rainy': 579, 'snowy': 569, 'partly cloudy': 480}
+14:27:18 -   [clear] trained -> 600 local steps
+14:28:04 -   [overcast] trained -> 600 local steps
+14:28:41 -   [rainy] trained -> 594 local steps
+14:28:41 -   [rainy] task 1 finished, evaluating
+14:31:01 -   [snowy] trained -> 589 local steps
+14:31:01 - slice    30 | finished 1/5 | 119.8 min | local steps {'clear': 600, 'overcast': 600, 'rainy': 594, 'snowy': 589, 'partly cloudy': 480}
+14:31:46 -   [clear] trained -> 620 local steps
+14:32:32 -   [overcast] trained -> 620 local steps
+14:33:21 -   [rainy] trained -> 614 local steps
+14:34:11 -   [snowy] trained -> 609 local steps
+14:34:11 - slice    31 | finished 1/5 | 123.0 min | local steps {'clear': 620, 'overcast': 620, 'rainy': 614, 'snowy': 609, 'partly cloudy': 480}
+14:34:57 -   [clear] trained -> 640 local steps
+14:35:43 -   [overcast] trained -> 640 local steps
+14:36:33 -   [rainy] trained -> 634 local steps
+14:37:23 -   [snowy] trained -> 629 local steps
+14:37:23 - slice    32 | finished 1/5 | 126.1 min | local steps {'clear': 640, 'overcast': 640, 'rainy': 634, 'snowy': 629, 'partly cloudy': 480}
+14:38:09 -   [clear] trained -> 660 local steps
+14:38:20 -   [overcast] trained -> 645 local steps
+14:38:20 -   [overcast] task 0 finished, evaluating
+14:41:25 -   [rainy] trained -> 654 local steps
+14:41:27 -   [snowy] trained -> 630 local steps
+14:41:27 -   [snowy] task 1 finished, evaluating
+14:43:01 - slice    33 | finished 1/5 | 131.8 min | local steps {'clear': 660, 'overcast': 645, 'rainy': 654, 'snowy': 630, 'partly cloudy': 480}
+14:43:47 -   [clear] trained -> 680 local steps
+14:44:24 -   [overcast] trained -> 660 local steps
+14:44:24 -   [overcast] task 1 finished, evaluating
+14:46:41 -   [rainy] trained -> 654 local steps
+14:46:41 -   [rainy] task 2 finished, evaluating
+14:49:05 -   [snowy] trained -> 650 local steps
+14:49:05 - slice    34 | finished 2/5 | 137.9 min | local steps {'clear': 680, 'overcast': 660, 'rainy': 654, 'snowy': 650, 'partly cloudy': 480}
+14:49:51 -   [clear] trained -> 700 local steps
+14:50:41 -   [overcast] trained -> 680 local steps
+14:51:31 -   [snowy] trained -> 670 local steps
+14:51:31 - slice    35 | finished 2/5 | 140.3 min | local steps {'clear': 700, 'overcast': 680, 'rainy': 654, 'snowy': 670, 'partly cloudy': 480}
+14:52:18 -   [clear] trained -> 720 local steps
+14:53:08 -   [overcast] trained -> 700 local steps
+14:53:57 -   [snowy] trained -> 690 local steps
+14:53:57 - slice    36 | finished 2/5 | 142.7 min | local steps {'clear': 720, 'overcast': 700, 'rainy': 654, 'snowy': 690, 'partly cloudy': 480}
+14:54:43 -   [clear] trained -> 740 local steps
+14:55:33 -   [overcast] trained -> 720 local steps
+14:56:17 -   [snowy] trained -> 708 local steps
+14:56:17 -   [snowy] task 2 finished, evaluating
+14:58:01 - slice    37 | finished 3/5 | 146.8 min | local steps {'clear': 740, 'overcast': 720, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+14:58:46 -   [clear] trained -> 760 local steps
+14:59:36 -   [overcast] trained -> 740 local steps
+14:59:36 - slice    38 | finished 3/5 | 148.4 min | local steps {'clear': 760, 'overcast': 740, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:00:22 -   [clear] trained -> 780 local steps
+15:01:12 -   [overcast] trained -> 760 local steps
+15:01:12 - slice    39 | finished 3/5 | 150.0 min | local steps {'clear': 780, 'overcast': 760, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:01:57 -   [clear] trained -> 800 local steps
+15:02:47 -   [overcast] trained -> 780 local steps
+15:02:47 - slice    40 | finished 3/5 | 151.6 min | local steps {'clear': 800, 'overcast': 780, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:03:33 -   [clear] trained -> 820 local steps
+15:04:23 -   [overcast] trained -> 800 local steps
+15:04:23 - slice    41 | finished 3/5 | 153.2 min | local steps {'clear': 820, 'overcast': 800, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:05:09 -   [clear] trained -> 840 local steps
+15:05:59 -   [overcast] trained -> 820 local steps
+15:05:59 - slice    42 | finished 3/5 | 154.7 min | local steps {'clear': 840, 'overcast': 820, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:06:44 -   [clear] trained -> 860 local steps
+15:07:34 -   [overcast] trained -> 840 local steps
+15:07:34 - slice    43 | finished 3/5 | 156.3 min | local steps {'clear': 860, 'overcast': 840, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:08:20 -   [clear] trained -> 880 local steps
+15:09:10 -   [overcast] trained -> 860 local steps
+15:09:10 - slice    44 | finished 3/5 | 157.9 min | local steps {'clear': 880, 'overcast': 860, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:09:56 -   [clear] trained -> 900 local steps
+15:09:58 -   [overcast] trained -> 861 local steps
+15:09:58 -   [overcast] task 2 finished, evaluating
+15:12:38 - slice    45 | finished 4/5 | 161.4 min | local steps {'clear': 900, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:13:24 -   [clear] trained -> 920 local steps
+15:13:24 - slice    46 | finished 4/5 | 162.2 min | local steps {'clear': 920, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:14:10 -   [clear] trained -> 940 local steps
+15:14:10 - slice    47 | finished 4/5 | 162.9 min | local steps {'clear': 940, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:14:56 -   [clear] trained -> 960 local steps
+15:14:56 - slice    48 | finished 4/5 | 163.7 min | local steps {'clear': 960, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:15:42 -   [clear] trained -> 980 local steps
+15:15:42 - slice    49 | finished 4/5 | 164.5 min | local steps {'clear': 980, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:16:28 -   [clear] trained -> 1000 local steps
+15:16:28 - slice    50 | finished 4/5 | 165.2 min | local steps {'clear': 1000, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:17:14 -   [clear] trained -> 1020 local steps
+15:17:14 - slice    51 | finished 4/5 | 166.0 min | local steps {'clear': 1020, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:18:00 -   [clear] trained -> 1040 local steps
+15:18:00 - slice    52 | finished 4/5 | 166.8 min | local steps {'clear': 1040, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:18:46 -   [clear] trained -> 1060 local steps
+15:18:46 - slice    53 | finished 4/5 | 167.5 min | local steps {'clear': 1060, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:19:03 -   [clear] trained -> 1068 local steps
+15:19:03 -   [clear] task 0 finished, evaluating
+15:22:45 - slice    54 | finished 4/5 | 171.5 min | local steps {'clear': 1068, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:23:36 -   [clear] trained -> 1088 local steps
+15:23:36 - slice    55 | finished 4/5 | 172.4 min | local steps {'clear': 1088, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:24:25 -   [clear] trained -> 1108 local steps
+15:24:25 - slice    56 | finished 4/5 | 173.2 min | local steps {'clear': 1108, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:25:14 -   [clear] trained -> 1128 local steps
+15:25:14 - slice    57 | finished 4/5 | 174.0 min | local steps {'clear': 1128, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:26:04 -   [clear] trained -> 1148 local steps
+15:26:04 - slice    58 | finished 4/5 | 174.8 min | local steps {'clear': 1148, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:26:53 -   [clear] trained -> 1168 local steps
+15:26:53 - slice    59 | finished 4/5 | 175.7 min | local steps {'clear': 1168, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:27:42 -   [clear] trained -> 1188 local steps
+15:27:42 - slice    60 | finished 4/5 | 176.5 min | local steps {'clear': 1188, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:28:32 -   [clear] trained -> 1208 local steps
+15:28:32 - slice    61 | finished 4/5 | 177.3 min | local steps {'clear': 1208, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:29:21 -   [clear] trained -> 1228 local steps
+15:29:21 - slice    62 | finished 4/5 | 178.1 min | local steps {'clear': 1228, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:30:11 -   [clear] trained -> 1248 local steps
+15:30:11 - slice    63 | finished 4/5 | 178.9 min | local steps {'clear': 1248, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:31:00 -   [clear] trained -> 1268 local steps
+15:31:00 - slice    64 | finished 4/5 | 179.8 min | local steps {'clear': 1268, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:31:50 -   [clear] trained -> 1288 local steps
+15:31:50 - slice    65 | finished 4/5 | 180.6 min | local steps {'clear': 1288, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:32:39 -   [clear] trained -> 1308 local steps
+15:32:39 - slice    66 | finished 4/5 | 181.4 min | local steps {'clear': 1308, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:33:28 -   [clear] trained -> 1328 local steps
+15:33:28 - slice    67 | finished 4/5 | 182.2 min | local steps {'clear': 1328, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:34:18 -   [clear] trained -> 1348 local steps
+15:34:18 - slice    68 | finished 4/5 | 183.1 min | local steps {'clear': 1348, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:35:07 -   [clear] trained -> 1368 local steps
+15:35:07 - slice    69 | finished 4/5 | 183.9 min | local steps {'clear': 1368, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:35:57 -   [clear] trained -> 1388 local steps
+15:35:57 - slice    70 | finished 4/5 | 184.7 min | local steps {'clear': 1388, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:36:46 -   [clear] trained -> 1408 local steps
+15:36:46 - slice    71 | finished 4/5 | 185.5 min | local steps {'clear': 1408, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:37:36 -   [clear] trained -> 1428 local steps
+15:37:36 - slice    72 | finished 4/5 | 186.4 min | local steps {'clear': 1428, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:38:25 -   [clear] trained -> 1448 local steps
+15:38:25 - slice    73 | finished 4/5 | 187.2 min | local steps {'clear': 1448, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:39:15 -   [clear] trained -> 1468 local steps
+15:39:15 - slice    74 | finished 4/5 | 188.0 min | local steps {'clear': 1468, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:40:04 -   [clear] trained -> 1488 local steps
+15:40:04 - slice    75 | finished 4/5 | 188.8 min | local steps {'clear': 1488, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:40:54 -   [clear] trained -> 1508 local steps
+15:40:54 - slice    76 | finished 4/5 | 189.7 min | local steps {'clear': 1508, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:41:43 -   [clear] trained -> 1528 local steps
+15:41:43 - slice    77 | finished 4/5 | 190.5 min | local steps {'clear': 1528, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:42:33 -   [clear] trained -> 1548 local steps
+15:42:33 - slice    78 | finished 4/5 | 191.3 min | local steps {'clear': 1548, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:43:22 -   [clear] trained -> 1568 local steps
+15:43:22 - slice    79 | finished 4/5 | 192.1 min | local steps {'clear': 1568, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:44:11 -   [clear] trained -> 1588 local steps
+15:44:11 - slice    80 | finished 4/5 | 193.0 min | local steps {'clear': 1588, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:45:01 -   [clear] trained -> 1608 local steps
+15:45:01 - slice    81 | finished 4/5 | 193.8 min | local steps {'clear': 1608, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:45:50 -   [clear] trained -> 1628 local steps
+15:45:50 - slice    82 | finished 4/5 | 194.6 min | local steps {'clear': 1628, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:46:40 -   [clear] trained -> 1648 local steps
+15:46:40 - slice    83 | finished 4/5 | 195.4 min | local steps {'clear': 1648, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:47:29 -   [clear] trained -> 1668 local steps
+15:47:29 - slice    84 | finished 4/5 | 196.3 min | local steps {'clear': 1668, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:48:19 -   [clear] trained -> 1688 local steps
+15:48:19 - slice    85 | finished 4/5 | 197.1 min | local steps {'clear': 1688, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:49:08 -   [clear] trained -> 1708 local steps
+15:49:08 - slice    86 | finished 4/5 | 197.9 min | local steps {'clear': 1708, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:49:58 -   [clear] trained -> 1728 local steps
+15:49:58 - slice    87 | finished 4/5 | 198.7 min | local steps {'clear': 1728, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:50:47 -   [clear] trained -> 1748 local steps
+15:50:47 - slice    88 | finished 4/5 | 199.6 min | local steps {'clear': 1748, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:51:37 -   [clear] trained -> 1768 local steps
+15:51:37 - slice    89 | finished 4/5 | 200.4 min | local steps {'clear': 1768, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:52:26 -   [clear] trained -> 1788 local steps
+15:52:26 - slice    90 | finished 4/5 | 201.2 min | local steps {'clear': 1788, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:53:15 -   [clear] trained -> 1808 local steps
+15:53:15 - slice    91 | finished 4/5 | 202.0 min | local steps {'clear': 1808, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:54:05 -   [clear] trained -> 1828 local steps
+15:54:05 - slice    92 | finished 4/5 | 202.8 min | local steps {'clear': 1828, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:54:54 -   [clear] trained -> 1848 local steps
+15:54:54 - slice    93 | finished 4/5 | 203.7 min | local steps {'clear': 1848, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:55:43 -   [clear] trained -> 1868 local steps
+15:55:43 - slice    94 | finished 4/5 | 204.5 min | local steps {'clear': 1868, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:56:33 -   [clear] trained -> 1888 local steps
+15:56:33 - slice    95 | finished 4/5 | 205.3 min | local steps {'clear': 1888, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:57:22 -   [clear] trained -> 1908 local steps
+15:57:22 - slice    96 | finished 4/5 | 206.1 min | local steps {'clear': 1908, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:58:12 -   [clear] trained -> 1928 local steps
+15:58:12 - slice    97 | finished 4/5 | 207.0 min | local steps {'clear': 1928, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:59:01 -   [clear] trained -> 1948 local steps
+15:59:01 - slice    98 | finished 4/5 | 207.8 min | local steps {'clear': 1948, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+15:59:50 -   [clear] trained -> 1968 local steps
+15:59:50 - slice    99 | finished 4/5 | 208.6 min | local steps {'clear': 1968, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:00:40 -   [clear] trained -> 1988 local steps
+16:00:40 - slice   100 | finished 4/5 | 209.4 min | local steps {'clear': 1988, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:01:30 -   [clear] trained -> 2008 local steps
+16:01:30 - slice   101 | finished 4/5 | 210.3 min | local steps {'clear': 2008, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:02:19 -   [clear] trained -> 2028 local steps
+16:02:19 - slice   102 | finished 4/5 | 211.1 min | local steps {'clear': 2028, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:03:09 -   [clear] trained -> 2048 local steps
+16:03:09 - slice   103 | finished 4/5 | 211.9 min | local steps {'clear': 2048, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:03:59 -   [clear] trained -> 2068 local steps
+16:03:59 - slice   104 | finished 4/5 | 212.7 min | local steps {'clear': 2068, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:04:48 -   [clear] trained -> 2088 local steps
+16:04:48 - slice   105 | finished 4/5 | 213.6 min | local steps {'clear': 2088, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:05:38 -   [clear] trained -> 2108 local steps
+16:05:38 - slice   106 | finished 4/5 | 214.4 min | local steps {'clear': 2108, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:06:27 -   [clear] trained -> 2128 local steps
+16:06:27 - slice   107 | finished 4/5 | 215.2 min | local steps {'clear': 2128, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:07:16 -   [clear] trained -> 2148 local steps
+16:07:16 - slice   108 | finished 4/5 | 216.0 min | local steps {'clear': 2148, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:08:06 -   [clear] trained -> 2168 local steps
+16:08:06 - slice   109 | finished 4/5 | 216.9 min | local steps {'clear': 2168, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:08:56 -   [clear] trained -> 2188 local steps
+16:08:56 - slice   110 | finished 4/5 | 217.7 min | local steps {'clear': 2188, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:09:46 -   [clear] trained -> 2208 local steps
+16:09:46 - slice   111 | finished 4/5 | 218.5 min | local steps {'clear': 2208, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:10:35 -   [clear] trained -> 2228 local steps
+16:10:35 - slice   112 | finished 4/5 | 219.4 min | local steps {'clear': 2228, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:11:24 -   [clear] trained -> 2248 local steps
+16:11:24 - slice   113 | finished 4/5 | 220.2 min | local steps {'clear': 2248, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:12:14 -   [clear] trained -> 2268 local steps
+16:12:14 - slice   114 | finished 4/5 | 221.0 min | local steps {'clear': 2268, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:13:03 -   [clear] trained -> 2288 local steps
+16:13:03 - slice   115 | finished 4/5 | 221.8 min | local steps {'clear': 2288, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:13:53 -   [clear] trained -> 2308 local steps
+16:13:53 - slice   116 | finished 4/5 | 222.6 min | local steps {'clear': 2308, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:14:43 -   [clear] trained -> 2328 local steps
+16:14:43 - slice   117 | finished 4/5 | 223.5 min | local steps {'clear': 2328, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:15:32 -   [clear] trained -> 2348 local steps
+16:15:32 - slice   118 | finished 4/5 | 224.3 min | local steps {'clear': 2348, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:16:22 -   [clear] trained -> 2368 local steps
+16:16:22 - slice   119 | finished 4/5 | 225.1 min | local steps {'clear': 2368, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:17:12 -   [clear] trained -> 2388 local steps
+16:17:12 - slice   120 | finished 4/5 | 226.0 min | local steps {'clear': 2388, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:18:01 -   [clear] trained -> 2408 local steps
+16:18:01 - slice   121 | finished 4/5 | 226.8 min | local steps {'clear': 2408, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:18:50 -   [clear] trained -> 2428 local steps
+16:18:50 - slice   122 | finished 4/5 | 227.6 min | local steps {'clear': 2428, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:19:40 -   [clear] trained -> 2448 local steps
+16:19:40 - slice   123 | finished 4/5 | 228.4 min | local steps {'clear': 2448, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:20:29 -   [clear] trained -> 2468 local steps
+16:20:29 - slice   124 | finished 4/5 | 229.3 min | local steps {'clear': 2468, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:21:18 -   [clear] trained -> 2488 local steps
+16:21:18 - slice   125 | finished 4/5 | 230.1 min | local steps {'clear': 2488, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:22:08 -   [clear] trained -> 2508 local steps
+16:22:08 - slice   126 | finished 4/5 | 230.9 min | local steps {'clear': 2508, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:22:57 -   [clear] trained -> 2528 local steps
+16:22:57 - slice   127 | finished 4/5 | 231.7 min | local steps {'clear': 2528, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:23:46 -   [clear] trained -> 2548 local steps
+16:23:46 - slice   128 | finished 4/5 | 232.5 min | local steps {'clear': 2548, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:24:36 -   [clear] trained -> 2568 local steps
+16:24:36 - slice   129 | finished 4/5 | 233.4 min | local steps {'clear': 2568, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:25:25 -   [clear] trained -> 2588 local steps
+16:25:25 - slice   130 | finished 4/5 | 234.2 min | local steps {'clear': 2588, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:26:15 -   [clear] trained -> 2608 local steps
+16:26:15 - slice   131 | finished 4/5 | 235.0 min | local steps {'clear': 2608, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:27:04 -   [clear] trained -> 2628 local steps
+16:27:04 - slice   132 | finished 4/5 | 235.8 min | local steps {'clear': 2628, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:27:54 -   [clear] trained -> 2648 local steps
+16:27:54 - slice   133 | finished 4/5 | 236.7 min | local steps {'clear': 2648, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:28:43 -   [clear] trained -> 2668 local steps
+16:28:43 - slice   134 | finished 4/5 | 237.5 min | local steps {'clear': 2668, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:29:32 -   [clear] trained -> 2688 local steps
+16:29:32 - slice   135 | finished 4/5 | 238.3 min | local steps {'clear': 2688, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:30:21 -   [clear] trained -> 2708 local steps
+16:30:21 - slice   136 | finished 4/5 | 239.1 min | local steps {'clear': 2708, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:31:11 -   [clear] trained -> 2728 local steps
+16:31:11 - slice   137 | finished 4/5 | 240.0 min | local steps {'clear': 2728, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:32:01 -   [clear] trained -> 2748 local steps
+16:32:01 - slice   138 | finished 4/5 | 240.8 min | local steps {'clear': 2748, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:32:50 -   [clear] trained -> 2768 local steps
+16:32:50 - slice   139 | finished 4/5 | 241.6 min | local steps {'clear': 2768, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:33:39 -   [clear] trained -> 2788 local steps
+16:33:39 - slice   140 | finished 4/5 | 242.4 min | local steps {'clear': 2788, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:34:29 -   [clear] trained -> 2808 local steps
+16:34:29 - slice   141 | finished 4/5 | 243.2 min | local steps {'clear': 2808, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:35:18 -   [clear] trained -> 2828 local steps
+16:35:18 - slice   142 | finished 4/5 | 244.1 min | local steps {'clear': 2828, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:36:08 -   [clear] trained -> 2848 local steps
+16:36:08 - slice   143 | finished 4/5 | 244.9 min | local steps {'clear': 2848, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:36:57 -   [clear] trained -> 2868 local steps
+16:36:57 - slice   144 | finished 4/5 | 245.7 min | local steps {'clear': 2868, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:37:47 -   [clear] trained -> 2888 local steps
+16:37:47 - slice   145 | finished 4/5 | 246.5 min | local steps {'clear': 2888, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:38:36 -   [clear] trained -> 2908 local steps
+16:38:36 - slice   146 | finished 4/5 | 247.4 min | local steps {'clear': 2908, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:39:26 -   [clear] trained -> 2928 local steps
+16:39:26 - slice   147 | finished 4/5 | 248.2 min | local steps {'clear': 2928, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:40:16 -   [clear] trained -> 2948 local steps
+16:40:16 - slice   148 | finished 4/5 | 249.0 min | local steps {'clear': 2948, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:41:05 -   [clear] trained -> 2968 local steps
+16:41:05 - slice   149 | finished 4/5 | 249.8 min | local steps {'clear': 2968, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:41:54 -   [clear] trained -> 2988 local steps
+16:41:54 - slice   150 | finished 4/5 | 250.7 min | local steps {'clear': 2988, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:42:43 -   [clear] trained -> 3008 local steps
+16:42:43 - slice   151 | finished 4/5 | 251.5 min | local steps {'clear': 3008, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:43:33 -   [clear] trained -> 3028 local steps
+16:43:33 - slice   152 | finished 4/5 | 252.3 min | local steps {'clear': 3028, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:44:22 -   [clear] trained -> 3048 local steps
+16:44:22 - slice   153 | finished 4/5 | 253.1 min | local steps {'clear': 3048, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:45:11 -   [clear] trained -> 3068 local steps
+16:45:11 - slice   154 | finished 4/5 | 254.0 min | local steps {'clear': 3068, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:46:01 -   [clear] trained -> 3088 local steps
+16:46:01 - slice   155 | finished 4/5 | 254.8 min | local steps {'clear': 3088, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:46:50 -   [clear] trained -> 3108 local steps
+16:46:50 - slice   156 | finished 4/5 | 255.6 min | local steps {'clear': 3108, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:47:40 -   [clear] trained -> 3128 local steps
+16:47:40 - slice   157 | finished 4/5 | 256.4 min | local steps {'clear': 3128, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:48:29 -   [clear] trained -> 3148 local steps
+16:48:29 - slice   158 | finished 4/5 | 257.3 min | local steps {'clear': 3148, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:49:18 -   [clear] trained -> 3168 local steps
+16:49:18 - slice   159 | finished 4/5 | 258.1 min | local steps {'clear': 3168, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:50:08 -   [clear] trained -> 3188 local steps
+16:50:08 - slice   160 | finished 4/5 | 258.9 min | local steps {'clear': 3188, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:50:57 -   [clear] trained -> 3208 local steps
+16:50:57 - slice   161 | finished 4/5 | 259.7 min | local steps {'clear': 3208, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:51:46 -   [clear] trained -> 3228 local steps
+16:51:46 - slice   162 | finished 4/5 | 260.5 min | local steps {'clear': 3228, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:52:36 -   [clear] trained -> 3248 local steps
+16:52:36 - slice   163 | finished 4/5 | 261.4 min | local steps {'clear': 3248, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:53:25 -   [clear] trained -> 3268 local steps
+16:53:25 - slice   164 | finished 4/5 | 262.2 min | local steps {'clear': 3268, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:54:15 -   [clear] trained -> 3288 local steps
+16:54:15 - slice   165 | finished 4/5 | 263.0 min | local steps {'clear': 3288, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:55:04 -   [clear] trained -> 3308 local steps
+16:55:04 - slice   166 | finished 4/5 | 263.8 min | local steps {'clear': 3308, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:55:53 -   [clear] trained -> 3328 local steps
+16:55:53 - slice   167 | finished 4/5 | 264.7 min | local steps {'clear': 3328, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:56:42 -   [clear] trained -> 3348 local steps
+16:56:42 - slice   168 | finished 4/5 | 265.5 min | local steps {'clear': 3348, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:57:32 -   [clear] trained -> 3368 local steps
+16:57:32 - slice   169 | finished 4/5 | 266.3 min | local steps {'clear': 3368, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:58:21 -   [clear] trained -> 3388 local steps
+16:58:21 - slice   170 | finished 4/5 | 267.1 min | local steps {'clear': 3388, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+16:59:11 -   [clear] trained -> 3408 local steps
+16:59:11 - slice   171 | finished 4/5 | 267.9 min | local steps {'clear': 3408, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:00:00 -   [clear] trained -> 3428 local steps
+17:00:00 - slice   172 | finished 4/5 | 268.8 min | local steps {'clear': 3428, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:00:49 -   [clear] trained -> 3448 local steps
+17:00:49 - slice   173 | finished 4/5 | 269.6 min | local steps {'clear': 3448, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:01:39 -   [clear] trained -> 3468 local steps
+17:01:39 - slice   174 | finished 4/5 | 270.4 min | local steps {'clear': 3468, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:02:28 -   [clear] trained -> 3488 local steps
+17:02:28 - slice   175 | finished 4/5 | 271.2 min | local steps {'clear': 3488, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:03:17 -   [clear] trained -> 3508 local steps
+17:03:17 - slice   176 | finished 4/5 | 272.1 min | local steps {'clear': 3508, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:04:06 -   [clear] trained -> 3528 local steps
+17:04:06 - slice   177 | finished 4/5 | 272.9 min | local steps {'clear': 3528, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:04:55 -   [clear] trained -> 3548 local steps
+17:04:55 - slice   178 | finished 4/5 | 273.7 min | local steps {'clear': 3548, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:05:44 -   [clear] trained -> 3568 local steps
+17:05:44 - slice   179 | finished 4/5 | 274.5 min | local steps {'clear': 3568, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:06:33 -   [clear] trained -> 3588 local steps
+17:06:33 - slice   180 | finished 4/5 | 275.3 min | local steps {'clear': 3588, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:07:23 -   [clear] trained -> 3608 local steps
+17:07:23 - slice   181 | finished 4/5 | 276.2 min | local steps {'clear': 3608, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:08:13 -   [clear] trained -> 3628 local steps
+17:08:13 - slice   182 | finished 4/5 | 277.0 min | local steps {'clear': 3628, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:09:02 -   [clear] trained -> 3648 local steps
+17:09:02 - slice   183 | finished 4/5 | 277.8 min | local steps {'clear': 3648, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:09:51 -   [clear] trained -> 3668 local steps
+17:09:51 - slice   184 | finished 4/5 | 278.6 min | local steps {'clear': 3668, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:10:41 -   [clear] trained -> 3688 local steps
+17:10:41 - slice   185 | finished 4/5 | 279.5 min | local steps {'clear': 3688, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:11:31 -   [clear] trained -> 3708 local steps
+17:11:31 - slice   186 | finished 4/5 | 280.3 min | local steps {'clear': 3708, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:12:20 -   [clear] trained -> 3728 local steps
+17:12:20 - slice   187 | finished 4/5 | 281.1 min | local steps {'clear': 3728, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:13:09 -   [clear] trained -> 3748 local steps
+17:13:09 - slice   188 | finished 4/5 | 281.9 min | local steps {'clear': 3748, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:13:58 -   [clear] trained -> 3768 local steps
+17:13:58 - slice   189 | finished 4/5 | 282.7 min | local steps {'clear': 3768, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:14:48 -   [clear] trained -> 3788 local steps
+17:14:48 - slice   190 | finished 4/5 | 283.6 min | local steps {'clear': 3788, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:15:37 -   [clear] trained -> 3808 local steps
+17:15:37 - slice   191 | finished 4/5 | 284.4 min | local steps {'clear': 3808, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:16:27 -   [clear] trained -> 3828 local steps
+17:16:27 - slice   192 | finished 4/5 | 285.2 min | local steps {'clear': 3828, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:17:16 -   [clear] trained -> 3848 local steps
+17:17:16 - slice   193 | finished 4/5 | 286.0 min | local steps {'clear': 3848, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:18:06 -   [clear] trained -> 3868 local steps
+17:18:06 - slice   194 | finished 4/5 | 286.9 min | local steps {'clear': 3868, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:18:56 -   [clear] trained -> 3888 local steps
+17:18:56 - slice   195 | finished 4/5 | 287.7 min | local steps {'clear': 3888, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:19:46 -   [clear] trained -> 3908 local steps
+17:19:46 - slice   196 | finished 4/5 | 288.5 min | local steps {'clear': 3908, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:20:35 -   [clear] trained -> 3928 local steps
+17:20:35 - slice   197 | finished 4/5 | 289.4 min | local steps {'clear': 3928, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:21:24 -   [clear] trained -> 3948 local steps
+17:21:24 - slice   198 | finished 4/5 | 290.2 min | local steps {'clear': 3948, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:22:14 -   [clear] trained -> 3968 local steps
+17:22:14 - slice   199 | finished 4/5 | 291.0 min | local steps {'clear': 3968, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:23:03 -   [clear] trained -> 3988 local steps
+17:23:03 - slice   200 | finished 4/5 | 291.8 min | local steps {'clear': 3988, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:23:53 -   [clear] trained -> 4008 local steps
+17:23:53 - slice   201 | finished 4/5 | 292.6 min | local steps {'clear': 4008, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:24:42 -   [clear] trained -> 4028 local steps
+17:24:42 - slice   202 | finished 4/5 | 293.5 min | local steps {'clear': 4028, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:25:31 -   [clear] trained -> 4048 local steps
+17:25:31 - slice   203 | finished 4/5 | 294.3 min | local steps {'clear': 4048, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:26:21 -   [clear] trained -> 4068 local steps
+17:26:21 - slice   204 | finished 4/5 | 295.1 min | local steps {'clear': 4068, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:27:11 -   [clear] trained -> 4088 local steps
+17:27:11 - slice   205 | finished 4/5 | 295.9 min | local steps {'clear': 4088, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:28:00 -   [clear] trained -> 4108 local steps
+17:28:00 - slice   206 | finished 4/5 | 296.8 min | local steps {'clear': 4108, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:28:49 -   [clear] trained -> 4128 local steps
+17:28:49 - slice   207 | finished 4/5 | 297.6 min | local steps {'clear': 4128, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:29:39 -   [clear] trained -> 4148 local steps
+17:29:39 - slice   208 | finished 4/5 | 298.4 min | local steps {'clear': 4148, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:30:28 -   [clear] trained -> 4168 local steps
+17:30:28 - slice   209 | finished 4/5 | 299.2 min | local steps {'clear': 4168, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:31:17 -   [clear] trained -> 4188 local steps
+17:31:17 - slice   210 | finished 4/5 | 300.1 min | local steps {'clear': 4188, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:32:07 -   [clear] trained -> 4208 local steps
+17:32:07 - slice   211 | finished 4/5 | 300.9 min | local steps {'clear': 4208, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:32:56 -   [clear] trained -> 4228 local steps
+17:32:56 - slice   212 | finished 4/5 | 301.7 min | local steps {'clear': 4228, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:33:46 -   [clear] trained -> 4248 local steps
+17:33:46 - slice   213 | finished 4/5 | 302.5 min | local steps {'clear': 4248, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:34:35 -   [clear] trained -> 4268 local steps
+17:34:35 - slice   214 | finished 4/5 | 303.4 min | local steps {'clear': 4268, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:35:25 -   [clear] trained -> 4288 local steps
+17:35:25 - slice   215 | finished 4/5 | 304.2 min | local steps {'clear': 4288, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:36:14 -   [clear] trained -> 4308 local steps
+17:36:14 - slice   216 | finished 4/5 | 305.0 min | local steps {'clear': 4308, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:37:03 -   [clear] trained -> 4328 local steps
+17:37:03 - slice   217 | finished 4/5 | 305.8 min | local steps {'clear': 4328, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:37:53 -   [clear] trained -> 4348 local steps
+17:37:53 - slice   218 | finished 4/5 | 306.6 min | local steps {'clear': 4348, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:38:42 -   [clear] trained -> 4368 local steps
+17:38:42 - slice   219 | finished 4/5 | 307.5 min | local steps {'clear': 4368, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:39:31 -   [clear] trained -> 4388 local steps
+17:39:31 - slice   220 | finished 4/5 | 308.3 min | local steps {'clear': 4388, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:40:20 -   [clear] trained -> 4408 local steps
+17:40:21 - slice   221 | finished 4/5 | 309.1 min | local steps {'clear': 4408, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:41:10 -   [clear] trained -> 4428 local steps
+17:41:10 - slice   222 | finished 4/5 | 309.9 min | local steps {'clear': 4428, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:42:00 -   [clear] trained -> 4448 local steps
+17:42:00 - slice   223 | finished 4/5 | 310.8 min | local steps {'clear': 4448, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:42:49 -   [clear] trained -> 4468 local steps
+17:42:49 - slice   224 | finished 4/5 | 311.6 min | local steps {'clear': 4468, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:43:39 -   [clear] trained -> 4488 local steps
+17:43:39 - slice   225 | finished 4/5 | 312.4 min | local steps {'clear': 4488, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:44:28 -   [clear] trained -> 4508 local steps
+17:44:28 - slice   226 | finished 4/5 | 313.2 min | local steps {'clear': 4508, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:45:17 -   [clear] trained -> 4528 local steps
+17:45:17 - slice   227 | finished 4/5 | 314.1 min | local steps {'clear': 4528, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:46:07 -   [clear] trained -> 4548 local steps
+17:46:07 - slice   228 | finished 4/5 | 314.9 min | local steps {'clear': 4548, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:46:56 -   [clear] trained -> 4568 local steps
+17:46:56 - slice   229 | finished 4/5 | 315.7 min | local steps {'clear': 4568, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:47:46 -   [clear] trained -> 4588 local steps
+17:47:46 - slice   230 | finished 4/5 | 316.5 min | local steps {'clear': 4588, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:48:35 -   [clear] trained -> 4608 local steps
+17:48:35 - slice   231 | finished 4/5 | 317.4 min | local steps {'clear': 4608, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:49:24 -   [clear] trained -> 4628 local steps
+17:49:24 - slice   232 | finished 4/5 | 318.2 min | local steps {'clear': 4628, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:50:14 -   [clear] trained -> 4648 local steps
+17:50:14 - slice   233 | finished 4/5 | 319.0 min | local steps {'clear': 4648, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:51:03 -   [clear] trained -> 4668 local steps
+17:51:03 - slice   234 | finished 4/5 | 319.8 min | local steps {'clear': 4668, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:51:52 -   [clear] trained -> 4688 local steps
+17:51:52 - slice   235 | finished 4/5 | 320.6 min | local steps {'clear': 4688, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:52:41 -   [clear] trained -> 4708 local steps
+17:52:41 - slice   236 | finished 4/5 | 321.5 min | local steps {'clear': 4708, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:53:30 -   [clear] trained -> 4728 local steps
+17:53:30 - slice   237 | finished 4/5 | 322.3 min | local steps {'clear': 4728, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:54:19 -   [clear] trained -> 4748 local steps
+17:54:19 - slice   238 | finished 4/5 | 323.1 min | local steps {'clear': 4748, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:55:09 -   [clear] trained -> 4768 local steps
+17:55:09 - slice   239 | finished 4/5 | 323.9 min | local steps {'clear': 4768, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:55:58 -   [clear] trained -> 4788 local steps
+17:55:58 - slice   240 | finished 4/5 | 324.7 min | local steps {'clear': 4788, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:56:47 -   [clear] trained -> 4808 local steps
+17:56:47 - slice   241 | finished 4/5 | 325.6 min | local steps {'clear': 4808, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:57:36 -   [clear] trained -> 4828 local steps
+17:57:36 - slice   242 | finished 4/5 | 326.4 min | local steps {'clear': 4828, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:58:26 -   [clear] trained -> 4848 local steps
+17:58:26 - slice   243 | finished 4/5 | 327.2 min | local steps {'clear': 4848, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+17:59:15 -   [clear] trained -> 4868 local steps
+17:59:15 - slice   244 | finished 4/5 | 328.0 min | local steps {'clear': 4868, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:00:05 -   [clear] trained -> 4888 local steps
+18:00:05 - slice   245 | finished 4/5 | 328.8 min | local steps {'clear': 4888, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:00:54 -   [clear] trained -> 4908 local steps
+18:00:54 - slice   246 | finished 4/5 | 329.7 min | local steps {'clear': 4908, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:01:43 -   [clear] trained -> 4928 local steps
+18:01:43 - slice   247 | finished 4/5 | 330.5 min | local steps {'clear': 4928, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:02:32 -   [clear] trained -> 4948 local steps
+18:02:32 - slice   248 | finished 4/5 | 331.3 min | local steps {'clear': 4948, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:03:22 -   [clear] trained -> 4968 local steps
+18:03:22 - slice   249 | finished 4/5 | 332.1 min | local steps {'clear': 4968, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:04:11 -   [clear] trained -> 4988 local steps
+18:04:11 - slice   250 | finished 4/5 | 333.0 min | local steps {'clear': 4988, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:04:21 -   [clear] trained -> 4992 local steps
+18:04:21 -   [clear] task 1 finished, evaluating
+18:14:46 - slice   251 | finished 4/5 | 343.5 min | local steps {'clear': 4992, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:15:36 -   [clear] trained -> 5012 local steps
+18:15:36 - slice   252 | finished 4/5 | 344.4 min | local steps {'clear': 5012, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:16:26 -   [clear] trained -> 5032 local steps
+18:16:26 - slice   253 | finished 4/5 | 345.2 min | local steps {'clear': 5032, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:17:15 -   [clear] trained -> 5052 local steps
+18:17:15 - slice   254 | finished 4/5 | 346.0 min | local steps {'clear': 5052, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:18:05 -   [clear] trained -> 5072 local steps
+18:18:05 - slice   255 | finished 4/5 | 346.8 min | local steps {'clear': 5072, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:18:54 -   [clear] trained -> 5092 local steps
+18:18:54 - slice   256 | finished 4/5 | 347.7 min | local steps {'clear': 5092, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:19:44 -   [clear] trained -> 5112 local steps
+18:19:44 - slice   257 | finished 4/5 | 348.5 min | local steps {'clear': 5112, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:20:34 -   [clear] trained -> 5132 local steps
+18:20:34 - slice   258 | finished 4/5 | 349.3 min | local steps {'clear': 5132, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:21:23 -   [clear] trained -> 5152 local steps
+18:21:23 - slice   259 | finished 4/5 | 350.1 min | local steps {'clear': 5152, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:22:12 -   [clear] trained -> 5172 local steps
+18:22:12 - slice   260 | finished 4/5 | 351.0 min | local steps {'clear': 5172, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:23:02 -   [clear] trained -> 5192 local steps
+18:23:02 - slice   261 | finished 4/5 | 351.8 min | local steps {'clear': 5192, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:23:51 -   [clear] trained -> 5212 local steps
+18:23:51 - slice   262 | finished 4/5 | 352.6 min | local steps {'clear': 5212, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:24:41 -   [clear] trained -> 5232 local steps
+18:24:41 - slice   263 | finished 4/5 | 353.5 min | local steps {'clear': 5232, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:25:30 -   [clear] trained -> 5252 local steps
+18:25:30 - slice   264 | finished 4/5 | 354.3 min | local steps {'clear': 5252, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:26:20 -   [clear] trained -> 5272 local steps
+18:26:20 - slice   265 | finished 4/5 | 355.1 min | local steps {'clear': 5272, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:27:09 -   [clear] trained -> 5292 local steps
+18:27:09 - slice   266 | finished 4/5 | 355.9 min | local steps {'clear': 5292, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:27:59 -   [clear] trained -> 5312 local steps
+18:27:59 - slice   267 | finished 4/5 | 356.7 min | local steps {'clear': 5312, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:28:48 -   [clear] trained -> 5332 local steps
+18:28:48 - slice   268 | finished 4/5 | 357.6 min | local steps {'clear': 5332, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+18:29:07 -   [clear] trained -> 5340 local steps
+18:29:07 -   [clear] task 2 finished, evaluating
+18:39:59 - slice   269 | finished 5/5 | 368.8 min | local steps {'clear': 5340, 'overcast': 861, 'rainy': 654, 'snowy': 708, 'partly cloudy': 480}
+20:08:52 - === local_only (seed 42) ===
+20:08:52 -          clear  final mAP 0.2315  forgetting +0.0000  BWT +0.0035
+20:08:52 -       overcast  final mAP 0.2570  forgetting +0.0024  BWT -0.0024
+20:08:52 -          rainy  final mAP 0.2139  forgetting +0.0000  BWT +0.0044
+20:08:52 -          snowy  final mAP 0.2262  forgetting +0.0016  BWT +0.0022
+20:08:52 -  partly cloudy  final mAP 0.2269  forgetting +0.0000  BWT +0.0031
+20:08:52 - system mAP  mean 0.2311  min 0.2139  max 0.2570  std 0.0142
+20:08:52 - global cross-client mAP: 0.2275  own-vs-other gap: +0.0045
+20:08:52 - saved -> runs/local_only_seed42.json

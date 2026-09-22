@@ -1,0 +1,7 @@
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.1.3
+pandas==2.2.3
+Pillow==11.0.0
+# only needed once, for evaluate_detection.validate_against_pycocotools()
+# pycocotools==2.0.8
