@@ -3,4 +3,3 @@ boxes_index.json
 data_pipeline/boxes_index.json
 results/runs/*_heads.pt
 v3/results/runs/*_heads.pt
-!v3/results/runs/a16rpn_joint_seed42_heads.pt
